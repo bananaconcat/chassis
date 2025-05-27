@@ -152,7 +152,7 @@ func handler(w http.ResponseWriter, r *http.Request) {
 						}
 					}
 				}
-			} else if msgData[0] == "leave" {]
+			} else if msgData[0] == "leave" {
 
 				for index := range lobbies {
 					if lobbies[index].lobbyId != msgData[1] {
