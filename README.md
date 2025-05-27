@@ -13,6 +13,8 @@ Leaving
 Save
 Load
 
+Params in Unity API
+
 `spawn <lobbyId> <prefabName> <playerId>` - Spawn a new NetworkObject Prefab with Owner for everyone
 
 `destroy <lobbyId> <objectId>` - Destroy a NetworkObject's GameObject for everyone
