@@ -4,22 +4,29 @@ Simple Unity Networking Solution using WebSockets
 
 # TODO ⌛
 
-NetworkTransform
-Relay Messages? function?
-.RegisterCallback(key string, method ?)
-.Invoke/Call(key string)
-Player Prefab
-Leaving
-Save
-Load
+- NetworkTransform
+  
+- Relay Messages? function?
 
-Params in Unity API
+- .RegisterCallback(key string, method ?)
 
-`spawn <lobbyId> <prefabName> <playerId>` - Spawn a new NetworkObject Prefab with Owner for everyone
+- .Invoke/Call(key string)
 
-`destroy <lobbyId> <objectId>` - Destroy a NetworkObject's GameObject for everyone
+- Player Prefab
 
-`swapscene <lobbyId> <sceneName>` - Change Scene for everyone
+- Leaving
+
+- Save
+
+- Load
+
+- Params in Unity API
+
+- `spawn <lobbyId> <prefabName> <playerId>` - Spawn a new NetworkObject Prefab with Owner for everyone
+
+- `destroy <lobbyId> <objectId>` - Destroy a NetworkObject's GameObject for everyone
+
+- `swapscene <lobbyId> <sceneName>` - Change Scene for everyone
 
 # API 📜
 
