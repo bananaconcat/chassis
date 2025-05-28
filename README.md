@@ -4,6 +4,8 @@ Simple Unity Networking Solution using WebSockets
 
 # TODO ⌛
 
+- Return what server request gives back 
+
 - NetworkTransform ⌛
   
 - Relay Messages? function? ⌛
