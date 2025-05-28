@@ -4,17 +4,17 @@ Simple Unity Networking Solution using WebSockets
 
 # TODO ⌛
 
-- NetworkTransform
+- NetworkTransform ⌛
   
-- Relay Messages? function?
+- Relay Messages? function? ⌛
 
-- .RegisterCallback(key string, method ?)
+- .RegisterCallback(key string, method ?) ✅
 
-- .Invoke/Call(key string)
+- .Invoke/Call(key string) ✅
 
-- Player Prefab
+- Player Prefab ⌛
 
-- Leaving
+- Leaving ❓
 
 - Save
 
