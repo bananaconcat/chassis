@@ -7,6 +7,8 @@ Simple Unity Networking Solution using WebSockets
 - Return what server request gives back 
 
 - NetworkTransform ⌛
+
+- NetworkObject ✅
   
 - Relay Messages? function? ⌛
 
